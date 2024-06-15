@@ -4,4 +4,4 @@
  - <a href="https://filipemartins-dev.github.io/glassmorphism/">🔗 Entrar na página</a>
 
  <h3> Background 01 </h3>
- <img src="url('./prints/print-bg-01.png')">
+ <img src="prints/print-bg-01.png">
